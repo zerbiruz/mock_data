@@ -1,0 +1,16 @@
+[
+    {
+        "projectId": 1,
+        "projectName": "เขื่อนนายก",
+        "province": "นครนายก",
+        "latitude": 14.18197917143253,
+        "longitude": 101.16243133314173
+    },
+    {
+        "projectId": 2,
+        "projectName": "เขื่อนขุนด่านปราการชล",
+        "province": "นครนายก",
+        "latitude": 14.311441448491081,
+        "longitude": 101.32102487259377
+    }
+]
