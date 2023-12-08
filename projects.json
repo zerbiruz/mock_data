@@ -1,16 +1,51 @@
 [
     {
         "projectId": 1,
+        "projectName": "กรมชลประทาน",
+        "province": "กรุงเทพมหานคร",
+        "latitude": 13.788064240676604,
+        "longitude": 100.51144555043916
+    },
+    {
+        "projectId": 2,
         "projectName": "เขื่อนนายก",
         "province": "นครนายก",
         "latitude": 14.18197917143253,
         "longitude": 101.16243133314173
     },
     {
-        "projectId": 2,
+        "projectId": 3,
         "projectName": "เขื่อนขุนด่านปราการชล",
         "province": "นครนายก",
         "latitude": 14.311441448491081,
         "longitude": 101.32102487259377
+    },
+    {
+        "projectId": 4,
+        "projectName": "โครงการชลประทานปทุมธานี",
+        "province": "ปทุมธานี",
+        "latitude": 13.974760646679284,
+        "longitude": 100.6203262702654
+    },
+    {
+        "projectId": 5,
+        "projectName": "โครงการชลประทานเชียงราก",
+        "province": "ปทุมธานี",
+        "latitude": 14.073258943695405,
+        "longitude": 100.576238682502
+    },
+    {
+        "projectId": 6,
+        "projectName": "โครงการส่งน้ำและบำรุงรักษาพระพิมล",
+        "province": "นครปฐม",
+        "latitude": 13.823611397310268,
+        "longitude": 100.22840071825667
+    },
+    {
+        "projectId": 7,
+        "projectName": "สำนักงาน ชลประทานที่ 10",
+        "province": "นครปฐม",
+        "latitude": 14.03049374614058,
+        "longitude": 100.1677092538631
     }
 ]
